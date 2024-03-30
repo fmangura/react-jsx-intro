@@ -1,0 +1,17 @@
+.tweet-card {
+    border: 5px solid rgb(107, 107, 107);
+    margin: 5px;
+    padding: 10px;
+}
+
+h3 {
+    color: rgb(29, 129, 191);
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-color: rgb(130, 188, 207);
+}
